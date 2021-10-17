@@ -1,6 +1,8 @@
 # [Live Demo](https://austinschroeder.github.io/sass-learn/)
 
-*This web site is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Ted Lasso. All product and company names are the registered trademarks of their original owners.
+![](lasso.png)
+
+###### *This web site is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by Ted Lasso. All product and company names are the registered trademarks of their original owners.
 
 ---
 
@@ -8,4 +10,4 @@
 
 ---
 
-Technologies used include: HTML, SASS/CSS, JAVASCRIPT
+**Technologies used include: HTML, SASS/CSS, JAVASCRIPT**
