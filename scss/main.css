@@ -13,9 +13,9 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../model-1.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/model-1.jpg") center top;
   background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/model-1.jpg") center top;
-  background-size: cover;ß
+  background-size: cover;
 }
 
 .home__name {
@@ -26,7 +26,7 @@
 }
 
 .home__name--last {
-  color: #ff652f;
+  color: #DD2422;
   font-weight: 700;
 }
 
@@ -148,7 +148,7 @@
 }
 
 .nav .menu-nav__item.active > a {
-  color: #ff652f;
+  color: #DD2422;
 }
 
 .nav .menu-nav__link {
@@ -162,7 +162,7 @@
 }
 
 .nav .menu-nav__link:hover {
-  color: #ff652f;
+  color: #DD2422;
 }
 
 .menu-nav__item:nth-child(1) {
@@ -237,7 +237,7 @@
 .about .jobs__job {
   background: #414141;
   padding: 0.5rem;
-  border-bottom: 5px solid #ff652f;
+  border-bottom: 5px solid #DD2422;
 }
 
 .about .jobs__job h2, .about .jobs__job h3 {
@@ -305,7 +305,7 @@
 
 .projects__item {
   position: relative;
-  border-bottom: 5px solid #ff652f;
+  border-bottom: 5px solid #DD2422;
   overflow: hidden;
   cursor: pointer;
 }
@@ -321,7 +321,7 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background: #ff652f;
+  background: #DD2422;
   opacity: 0;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -496,7 +496,7 @@ a {
 }
 
 .text-secondary {
-  color: #ff652f;
+  color: #DD2422;
 }
 
 header {
@@ -524,7 +524,7 @@ main .social-icons a {
 }
 
 main .social-icons a:hover {
-  color: #ff652f;
+  color: #DD2422;
 }
 
 footer {
